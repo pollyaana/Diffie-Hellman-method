@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Algos5\DH\DH\bin\Debug\net6.0\DH.exe
+C:\Users\Home\Desktop\Algos5\DH\DH\bin\Debug\net6.0\DH.deps.json
+C:\Users\Home\Desktop\Algos5\DH\DH\bin\Debug\net6.0\DH.runtimeconfig.json
+C:\Users\Home\Desktop\Algos5\DH\DH\bin\Debug\net6.0\DH.dll
+C:\Users\Home\Desktop\Algos5\DH\DH\bin\Debug\net6.0\DH.pdb
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.AssemblyInfo.cs
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.dll
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\refint\DH.dll
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.pdb
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\DH.genruntimeconfig.cache
+C:\Users\Home\Desktop\Algos5\DH\DH\obj\Debug\net6.0\ref\DH.dll
